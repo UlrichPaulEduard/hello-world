@@ -1,2 +1,4 @@
 # hello-world
-My first GIT-Project
+Hallo Leser
+das istmein erstes GIT-Project
+
